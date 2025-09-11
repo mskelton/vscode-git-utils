@@ -1,9 +1,8 @@
 {
-  "private": true,
   "name": "vscode-git-utils",
+  "version": "1.0.0",
   "displayName": "Git Utils",
   "description": "Extra Git commands for VS Code",
-  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/mskelton/vscode-git-utils"
