@@ -1,7 +1,7 @@
 {
   "name": "vscode-git-utils",
   "version": "1.0.0",
-  "displayName": "Git Utils",
+  "displayName": "Git Extras",
   "description": "Extra Git commands for VS Code",
   "repository": {
     "type": "git",
@@ -36,7 +36,7 @@
     ]
   },
   "main": "./out/extension.js",
-  "icon": "resources/icon.jpg",
+  "icon": "resources/icon.png",
   "files": [
     "out/**/*",
     "resources/**/*",
