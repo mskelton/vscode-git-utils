@@ -20,18 +20,28 @@
     "commands": [
       {
         "category": "Git Utils",
+        "title": "Push",
+        "command": "git-utils.push"
+      },
+      {
+        "category": "Git Utils",
+        "title": "Pull",
+        "command": "git-utils.pull"
+      },
+      {
+        "category": "Git Utils",
         "title": "Sync",
-        "command": "git-utils.git-sync"
+        "command": "git-utils.sync"
       },
       {
         "category": "Git Utils",
         "title": "Append",
-        "command": "git-utils.git-append"
+        "command": "git-utils.append"
       },
       {
         "category": "Git Utils",
         "title": "Force Push with Lease",
-        "command": "git-utils.git-push-force-with-lease"
+        "command": "git-utils.push-force-with-lease"
       }
     ]
   },
