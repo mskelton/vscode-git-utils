@@ -9,6 +9,7 @@ Extra Git commands for VS Code
 - `Git Extras: Sync` - Sync changes to the remote repository
 - `Git Extras: Append` - Append changes to the last commit
 - `Git Extras: Push Force With Lease` - Run `git push --force-with-lease`
+- `Git Extras: Checkout Default Branch` - Checkout the default branch
 
 ## Installation
 
